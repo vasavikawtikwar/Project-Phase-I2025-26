@@ -1,0 +1,5 @@
+- Frontend: Next.js 16, React 19, TypeScript, Tailwind CSS
+- Backend: Next.js API Routes, PostgreSQL, JWT Authentication
+- Database: PostgreSQL (via Neon or local)
+- External APIs: LanguageTool for advanced grammar checking
+- UI Components: shadcn/ui with Radix UI
